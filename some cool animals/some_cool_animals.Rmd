@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Amy Butler"
 output: html_document
 ---
 
@@ -57,6 +57,14 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
+#### Grogu
+![Photo: Courtesy of Prof Phil](img/Grogu.jpeg)
+
+##### Grogu fun facts: 
+
+- Also known as "The Child"
+- Likes unfertilised frog eggs& control knobs
+- Strong with the force
 ###
 
 ----------
